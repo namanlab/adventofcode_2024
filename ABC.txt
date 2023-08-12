@@ -1,5 +1,2 @@
-DEF
-DEFDEF
-RGH
+r1
 r2
-r3
