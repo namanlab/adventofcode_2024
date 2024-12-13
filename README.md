@@ -20,7 +20,7 @@ For more information, visit the [Advent of Code website](https://[adventofcode](
 
 ## Solutions
 
-This repository contains my solutions to the Advent of Code 2023 puzzles. Each day's solution is stored in its respective folder, and the code is provided in Java (feel free to adapt the solutions to your preferred language).
+This repository contains my solutions to the Advent of Code 2024 puzzles. Each day's solution is stored in its respective folder, and the code is provided in Java (feel free to adapt the solutions to your preferred language).
 
 ## Contributing
 
